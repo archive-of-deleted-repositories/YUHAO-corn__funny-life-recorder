@@ -1,18 +1,18 @@
 // sw.js - Service Worker
 
-const CACHE_NAME = 'funny-life-v1';
+const CACHE_NAME = 'funny-life-v2';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/css/styles.css',
-  '/js/store.js',
-  '/js/score.js',
-  '/js/router.js',
-  '/js/ui.js',
-  '/js/app.js',
-  '/manifest.json',
-  '/assets/icons/icon-192.png',
-  '/assets/icons/icon-512.png'
+  './',
+  './index.html',
+  './css/styles.css',
+  './js/store.js',
+  './js/score.js',
+  './js/router.js',
+  './js/ui.js',
+  './js/app.js',
+  './manifest.json',
+  './assets/icons/icon-192.png',
+  './assets/icons/icon-512.png'
 ];
 
 // 安装 - 缓存资源

@@ -2,7 +2,7 @@
   "name": "Funny Life Recorder",
   "short_name": "FunnyLife",
   "description": "一个有趣的生活状态追踪器",
-  "start_url": "/index.html",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#fffbeb",
   "theme_color": "#fef08a",
