@@ -1,0 +1,21 @@
+{
+  "name": "Funny Life Recorder",
+  "short_name": "FunnyLife",
+  "description": "一个有趣的生活状态追踪器",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fffbeb",
+  "theme_color": "#fef08a",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
