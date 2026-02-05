@@ -10,7 +10,9 @@ const ASSETS = [
   '/js/router.js',
   '/js/ui.js',
   '/js/app.js',
-  '/manifest.json'
+  '/manifest.json',
+  '/assets/icons/icon-192.png',
+  '/assets/icons/icon-512.png'
 ];
 
 // 安装 - 缓存资源
